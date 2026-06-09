@@ -1,4 +1,4 @@
-# COMPARISON-OF-DIFFERENT-NUMERICAL-TECHNIQUES-FOR-THE-SOLUTION-OF-SCHRODINGER-WAVE-EQUATION-
+# Schrödinger Wave Equation Solver (1D Quantum Harmonic Oscillator)
 In this project we have discussed the Schrodinger Wave Equation which includes its time dependency and time independency for 1D Quantum Harmonic Oscillator through different numerical techniques for 1D Harmonic Oscillator . These numerical techniques include, Shooting method , Crank Nicolson and Compare it using Python Jupyter.
 
 ## Overview
